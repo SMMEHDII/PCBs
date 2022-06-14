@@ -1,0 +1,18 @@
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P3 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P4 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P5 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P6 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P7 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P8 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P9 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P10 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P11 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P12 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P13 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P14 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P15 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P16 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P17 MEMS Sensor
+Added Member To Class: ClassName=Mircophone_Module_Sch_9-8-21 Member=Component P18 MEMS Sensor
+Change Room Name: Old Name=RoomDefinition New Name=Mircophone_Module_Sch_9-8-21
+Change Room Scope: Old Scope=False New Scope=InComponentClass('Mircophone_Module_Sch_9-8-21')

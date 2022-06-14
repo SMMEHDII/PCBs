@@ -1,0 +1,2 @@
+Change Room Name: Old Name=RoomDefinition New Name=Mircophone_Module_Sch_9-8-21
+Change Room Scope: Old Scope=False New Scope=InComponentClass('Mircophone_Module_Sch_9-8-21')

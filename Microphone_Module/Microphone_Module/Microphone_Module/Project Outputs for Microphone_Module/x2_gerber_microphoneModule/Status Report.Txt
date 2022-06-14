@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Microphone_Module.PrjPcb]
+   Generated File[Microphone_Module_PCB_14-8-21.TXT]
+   Generated File[Microphone_Module_PCB_14-8-21.DRL]
+   Generated File[Microphone_Module_PCB_14-8-21.LDP]
+   Generated File[Microphone_Module_PCB_14-8-21.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:16:56 AM On 19-Aug-21

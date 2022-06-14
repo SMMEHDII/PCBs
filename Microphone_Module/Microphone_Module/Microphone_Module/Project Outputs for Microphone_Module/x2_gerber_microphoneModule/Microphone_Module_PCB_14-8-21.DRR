@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Microphone_Module_PCB_14-8-21.PcbDoc   19-Aug-21  12:16:55 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Microphone_Module_PCB_14-8-21.TXT
+EIA File   : Microphone_Module_PCB_14-8-21.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             233       PTH        0.00mm (0.00inch)
+T2      0.9mm (35mil)                                             Round             9         PTH        0.00mm (0.00inch)
+T3      0.5mm (20mil)                                             Round             16        NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              258
+
+Total Processing Time (hh:mm:ss) : 00:00:01

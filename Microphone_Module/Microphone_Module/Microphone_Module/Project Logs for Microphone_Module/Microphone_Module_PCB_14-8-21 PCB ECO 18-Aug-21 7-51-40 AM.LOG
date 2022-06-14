@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P1 Old Footprint=MIC_ICS-43434 New Footprint=HDR1X2
+Change Component Footprint: Designator=P2 Old Footprint=MIC_ICS-43434 New Footprint=HDR1X7
+Change Component Description : Designator=P2 Old Description=3 Watt New Description=3 Watt | DC-DC Converter Dual 1000VDC isolation
+Added Pin To Net: NetName=+12 Pin=P2-6
+Added Room: Name=Mircophone_Module_Sch_9-8-21
